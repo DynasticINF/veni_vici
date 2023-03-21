@@ -4,7 +4,7 @@ Submitted by: **Jeremiah Anim*
 
 This web app: **User will be able to discover new cats along with their specific attributes**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
